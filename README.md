@@ -36,15 +36,16 @@ pip install -r requirements.txt
 
 -  Alternatively, if you're using Jupyter or Colab, you can install dependencies directly in the notebook:
 
+```bash
 pip install lightning
 pip install kornia
 pip install openvino-dev
 pip install anomalib timm
 pip install open_clip_torch
 pip install onnx
+```
 
-
-**## Dataset**
+## Dataset
 
 This project uses the MVTec Anomaly Detection (MVTec AD) dataset, which contains several categories of industrial objects. The dataset is used for training and testing anomaly detection models. You can download the dataset from the official MVTec website.
 
