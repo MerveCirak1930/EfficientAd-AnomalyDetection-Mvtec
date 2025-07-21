@@ -43,7 +43,7 @@ pip install open_clip_torch
 pip install onnx
 
 
-## Dataset
+**## Dataset**
 
 This project uses the MVTec Anomaly Detection (MVTec AD) dataset, which contains several categories of industrial objects. The dataset is used for training and testing anomaly detection models. You can download the dataset from the official MVTec website.
 
