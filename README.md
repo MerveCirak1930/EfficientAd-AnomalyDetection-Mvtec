@@ -31,6 +31,7 @@ In this project, the following tasks are performed:
 
 ```bash
 pip install -r requirements.txt
+```
 
 
 -  Alternatively, if you're using Jupyter or Colab, you can install dependencies directly in the notebook:
