@@ -21,10 +21,11 @@ In this project, the following tasks are performed:
 
 1. **Clone the repository**:
 
-   ```bash
+```bash
    git clone <repository_url>
    cd <repository_directory>
-   
+```
+
 2. **Install dependencies**:
 
 - Install required Python packages using pip:
@@ -32,7 +33,6 @@ In this project, the following tasks are performed:
 ```bash
 pip install -r requirements.txt
 ```
-
 
 -  Alternatively, if you're using Jupyter or Colab, you can install dependencies directly in the notebook:
 
@@ -77,7 +77,7 @@ To export the model, the following code is used:
 
 ```python
 engine.export(model=model, export_type=ExportType.OPENVINO)
-
+```
 
 ## Inference
 
