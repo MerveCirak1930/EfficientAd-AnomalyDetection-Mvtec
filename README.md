@@ -1,5 +1,5 @@
 # EfficientAd-AnomalyDetection-Mvtec
-MVTec AD veri seti üzerinde EfficientAD modelini kullanarak anomali tespiti yapan model geliştirme ve modeli OpenVINO formatında ihraç etme
+Developing an anomaly detection model using the EfficientAD model on the MVTec AD dataset and exporting the model in OpenVINO format
 
 
 # Anomaly Detection with EfficientAD on MVTec AD Dataset
