@@ -101,7 +101,7 @@ The model predicts an anomaly mask for an image, which is visualized alongside t
 
 **Example Visualization**:
 
-(Include your visualization here)
+![anomaly_pipeline_output](images/output.png)
 
 ## Performance Metrics
 
