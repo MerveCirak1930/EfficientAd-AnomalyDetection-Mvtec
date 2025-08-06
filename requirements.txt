@@ -1,0 +1,7 @@
+lightning
+kornia
+openvino-dev
+anomalib
+timm
+open_clip_torch
+onnx
